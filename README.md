@@ -9,4 +9,4 @@
 
  I am planning on creating a "leave comments page" with react soon. I mean... it's not rocket science, but it's honest work. Okay jokes aside, but after that the CV page itself would have some database action going on. Also I think it would be fun to read peoples comments of my page and the possible horrible foolery that might go on in there.
 
- Ja kaikki sama suomeks tottakai.
+ Ja kaikki sama suomeksi tottakai.
